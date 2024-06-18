@@ -1,0 +1,25 @@
+{
+  "name": "tiptap-extension-letter-spacing",
+  "version": "1.0.0",
+  "description": "A letter-spacing extension for tiptap paragraph.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "letter-spacing",
+    "paragraph"
+  ],
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-letter-spacing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-letter-spacing.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.2.1"
+  }
+}
